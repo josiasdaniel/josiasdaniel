@@ -2,7 +2,7 @@ Hello!
 
 Welcome to my Github repository.
 
-I am interested in Data Analysis, Python and Human Resources.
+I am interested in Data Analysis, Python, Power BI and Human Resources.
 
 I am currently learning Data Analysis techniques and Python.
 
